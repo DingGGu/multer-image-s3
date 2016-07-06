@@ -1,0 +1,21 @@
+{
+  "name": "multer-image-s3",
+  "version": "0.0.2",
+  "description": "Multer upload AWS S3 stream with image resizing process",
+  "author": {
+    "name": "DingGGu",
+    "email": "admin@gnetwork.kr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DingGGu/multer-image-s3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DingGGu/multer-image-s3/issues"
+  },
+  "dependencies": {
+    "file-type": "^3.8.0",
+    "gm": "^1.22.0",
+    "run-parallel": "^1.1.6"
+  }
+}
